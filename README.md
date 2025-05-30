@@ -21,3 +21,7 @@ This is a simple LED blink example for the ATmega8 microcontroller written in C 
 
 ## 🔌 Schematic
 
+VCC ---[ 220Ω ]---|>|--- PB0
+
+
+> Make sure your fuse bits are set correctly for internal oscillator or external clock if used.
